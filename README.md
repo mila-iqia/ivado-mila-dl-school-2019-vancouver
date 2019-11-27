@@ -1,5 +1,8 @@
 # IVADO/Mila's Deep Learning school, 5th edition - December 2-6 2019, Vancouver
-[![image](https://user-images.githubusercontent.com/18450628/63861998-e911e280-c979-11e9-83f6-49c40e904a22.png)](https://ivado.ca/en/trainings/schools/deep-learning-school-4th-and-5th-edition/)
+
+
+[![deep_learning_winter_school](https://user-images.githubusercontent.com/18450628/69743601-b0b2a980-110c-11ea-9e9e-f949b3e33cb7.jpeg)
+](https://ivado.ca/en/trainings/schools/ivado-mila-deep-learning-school-5th-edition-2/)
 
 ## Welcome!
 
