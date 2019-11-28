@@ -1,4 +1,4 @@
-# IVADO/Mila's Deep Learning school, 5th edition - December 2-6 2019, Vancouver
+# IVADO/Mila/DSI's Deep Learning school, 5th edition - December 2-6 2019, Vancouver
 
 
 [![deep_learning_winter_school](https://user-images.githubusercontent.com/18450628/69743601-b0b2a980-110c-11ea-9e9e-f949b3e33cb7.jpeg)
