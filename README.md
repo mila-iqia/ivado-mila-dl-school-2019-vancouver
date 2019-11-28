@@ -25,6 +25,6 @@ We will be presenting the tutorials in the format of [Jupyter notebooks](http://
 
 ## Additional information
 
-For more information about the deep learning school, visit the [official website.](https://ivado.ca/en/trainings/schools/deep-learning-school-4th-and-5th-edition/)
+For more information about the deep learning school, visit the [official website.](https://ivado.ca/formations/ecoles/ecole-ivado-mila-en-apprentissage-profond-5e-edition/)
 
 For more information about Mila, visit the [official website.](https://mila.quebec/)
